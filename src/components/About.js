@@ -1,9 +1,11 @@
+import Test from "./Test";
+
 const About = () => {
     return(
        <div className="About-Us">
         <div>
         <h3>We Ask the Right Questions About Your Business</h3>
-        <div>Before we start any project, we take the time to get to know your business. We ask the right questions to gain a deep understanding of your business, target audience, and competition.</div>
+        <div>Before we start any project, we merge conflict line to be added take the time to get to know your business. We ask the right questions to gain a deep understanding of your business, target audience, and competition.</div>
         </div>
 
         <div>
@@ -17,6 +19,7 @@ const About = () => {
         </div>
 
         <div>This text ias added to check the conflict occurs in github</div>
+        <Test />
        </div>
     );
 }
