@@ -15,6 +15,8 @@ const About = () => {
         <h3>Launching Your Solutions</h3>
         <div>We don’t just develop your solutions and leave you to it. We work alongside you to launch your solutions and provide ongoing support and maintenance to ensure that they continue to meet your needs over time.</div>
         </div>
+
+        <div>This text ias added to check the conflict occurs in github</div>
        </div>
     );
 }
